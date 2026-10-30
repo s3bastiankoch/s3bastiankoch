@@ -1,4 +1,4 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.png"><img src="assets/hero-light.png" width="100%" alt="Performance regression detection at TU Berlin. I make benchmarks in CI cheaper to run and their verdicts safe to trust. PhD researcher with Prof. David Bermbach's group at TU Berlin, papers at IC2E and UCC 2026."></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.png"><img src="assets/hero-light.png" width="100%" alt="Systems performance at TU Berlin. I make software faster, and measure it carefully enough to prove it. Performance engineering, anytime-valid statistics, AI evaluation. PhD researcher with Prof. David Bermbach's group at TU Berlin, papers at IC2E and UCC 2026."></picture>
 
 <p>
 <a href="https://github.com/s3bastiankoch/adapbench"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tile-adapbench-dark.png"><img src="assets/tile-adapbench-light.png" width="32%" alt="AdapBench, UCC 2026: 42 % less benchmark time in CI on 8 Java projects at the same detections and false-positive rate."></picture></a>
